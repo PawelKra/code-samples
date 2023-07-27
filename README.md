@@ -13,6 +13,10 @@ use tile server to feed dashboard map with them.
 Main technologies used here are terracota and dash, dash-leaflet
 
 
+https://github.com/PawelKra/code-samples/assets/15887575/584c9411-1ad6-45d7-91b6-cc65b08fa34b
+
+
+
 ## parcel-proc
 script to manipulate parcels and get some statistics from intersecting layers.
 
